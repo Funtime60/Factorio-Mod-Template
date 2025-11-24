@@ -6,6 +6,7 @@
 		"script",
 		"defines",
 		"serpent",
+		"storage",
 		"log"
 	]
 }
