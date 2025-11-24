@@ -5,6 +5,7 @@
 		"game",
 		"script",
 		"defines",
-		"serpent"
+		"serpent",
+		"log"
 	]
 }
